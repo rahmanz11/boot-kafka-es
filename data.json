@@ -1,0 +1,1 @@
+{"disallowed": true,"malware": "pass","superUser": "pass","sensitiveData": "fail","max_score_allowed": 0,"max_score_found": 0,"critical_vulns": 0,"high_vulns": 1,"medium_vulns": 12,"low_vulns": 3}
